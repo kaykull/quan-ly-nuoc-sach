@@ -1,0 +1,44 @@
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\bin\Debug\KDNuocSach.mdf
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\bin\Debug\KDNuocSach_log.ldf
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\bin\Debug\BTCuoiKi.exe.config
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\bin\Debug\BTCuoiKi.exe
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\bin\Debug\BTCuoiKi.pdb
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.csprojAssemblyReference.cache
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.MenuQL.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.Properties.Resources.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.csproj.GenerateResource.cache
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.exe
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.pdb
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.CapNhatCT.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.CapNhatTTN.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.CapNhatKH.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.ThongKeKH.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.TimKiemKH.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.ThongKeCT.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.TimKiemCT.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.BanQuyen.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.ThongKeTTN.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.TroGiup.resources
+F:\Lập trình .Net (C#)\Bài tập Window Form\BTCuoiKi\BTCuoiKi\obj\Debug\BTCuoiKi.TimKiemTTN.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\bin\Debug\KDNuocSach.mdf
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\bin\Debug\KDNuocSach_log.ldf
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\bin\Debug\BTCuoiKi.exe.config
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\bin\Debug\BTCuoiKi.exe
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\bin\Debug\BTCuoiKi.pdb
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.csprojAssemblyReference.cache
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.BanQuyen.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.CapNhatCT.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.MenuQL.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.Properties.Resources.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.CapNhatTTN.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.CapNhatKH.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.ThongKeCT.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.ThongKeKH.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.ThongKeTTN.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.TimKiemCT.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.TimKiemKH.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.TimKiemTTN.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.TroGiup.resources
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.csproj.GenerateResource.cache
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.exe
+C:\Users\ikay\Desktop\26_675105082_HoangTuanThanh_Net01_SO\BTCuoiKi\obj\Debug\BTCuoiKi.pdb
